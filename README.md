@@ -32,9 +32,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Vue](https://img.shields.io/badge/Vue-Js-success)&nbsp;
-![Ajax](https://img.shields.io/badge/Ajax-JavaScript-yellowgreen)&nbsp;
-![TypeScript](https://img.shields.io/badge/Type-Script-green)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue)&nbsp;
+![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=ajax)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
