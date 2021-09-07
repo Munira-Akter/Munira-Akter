@@ -45,7 +45,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.muniraakter.com"><img src="https://img.shields.io/badge/-muniraakter.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muniraakter/"><img src="https://img.shields.io/badge/-Munira%20Akter-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muniraweb@gmail.com"><img src="https://img.shields.io/badge/-muniraweb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
