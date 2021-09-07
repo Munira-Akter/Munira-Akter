@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I love to do coding with a cup of coffee and love to explore new technology.\
-🎓 &nbsp;I'm currently completing my dimploma in Web & Software at Coders Trust Bangladesh.\
+🎓 &nbsp;I'm currently completing my diploma in Web & Software at Coders Trust Bangladesh.\
 🌱 &nbsp;I'm on track for learning more about MERN, data structures and algorithms for data science.\
 ✍️ &nbsp;In my free time, I love to traveling and cooking for my family members.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
